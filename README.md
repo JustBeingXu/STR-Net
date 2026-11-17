@@ -1,5 +1,5 @@
 <div align="center">
-    <h1 align="center">[ESWA 2026] STR-Net: Structural Relationship-aware Network with Topological Consistency for Retinal Fluid Segmentation
+    <h1 align="center">[ESWA 2027] STR-Net: Structural Relationship-aware Network with Topological Consistency for Retinal Fluid Segmentation
     </h1>
 </div>
 
@@ -90,8 +90,9 @@ If you find our work helpful for your research, please consider giving one star 
 @article{XIA2026135036,
   title   = {STR-Net: Structural Relationship-aware Network with Topological Consistency for Retinal Fluid Segmentation},
   journal = {Expert Systems with Applications},
+  volume = {335},
   pages   = {135036},
-  year    = {2026},
+  year    = {2027},
   issn    = {0957-4174},
   doi     = {10.1016/j.eswa.2026.135036},
   url     = {https://www.sciencedirect.com/science/article/pii/S0957417426039382},
